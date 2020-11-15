@@ -1,0 +1,7 @@
+Computing Hessian in Python with autograd
+
+https://math.stackexchange.com/questions/3254520/computing-hessian-in-python-using-finite-differences
+
+
+
+
